@@ -8,5 +8,9 @@ When User enter "komal" and "456"
 And Click on Login Button
 Then User should be on Homepage
 
+Given User at landing page
+When User enter "komal" and "456"
+And Click on Login Button
+Then User should be on Homepage
 
 
